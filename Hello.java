@@ -1,5 +1,5 @@
 class Hello{
     public static void main(String[] args) {
-        System.out.println("Hello World-changes are done");
+        System.out.println("Hello World-changes are done for Web hooks");
     }
 }
